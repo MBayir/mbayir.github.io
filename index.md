@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/MBayir/mbayir.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Murat Bayir is Principal Applied Researcher at Microsoft Bing Ads. He is currently working on counterfactual off policy estimation for Bing Ads. He is currently managing team that developed Genie Counterfactual Estimation Platform. Before Microsoft, Dr. Bayir worked on large scale decision support platform in Google and Query Recommendation system in Ask.com between 2010 and 2013. Dr. Bayir was also one of the founding engineers of Turkish startup where he worked on developing Search Engine focusing on Turkish language between 2006-2007. Murat holds PhD degree in Computer Science and Engineering from University at Buffalo and BS-MS degree from Computer Engineering with minor in Math from Middle East Technical University.
 
 ### Markdown
 
